@@ -507,7 +507,7 @@ nav.mobile-nav ul li a:hover {
     /* display: none; */
     top: 50%;
     left: 5px;
-    
+    display: none;
     
     /* transform: translateY(-50%); */
     color: #7f8c8d;
